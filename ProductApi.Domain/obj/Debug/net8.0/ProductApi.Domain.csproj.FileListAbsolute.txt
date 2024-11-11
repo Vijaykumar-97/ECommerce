@@ -1,0 +1,11 @@
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.deps.json
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfoInputs.cache
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfo.cs
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\vijay\source\repos\DemoECommerce.ProductApisolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll
